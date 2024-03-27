@@ -1,0 +1,44 @@
+body{
+    background-color: #00cc00;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    color: white;
+}
+
+img{
+    width: 80%;
+    height: 150px;
+}
+
+.content-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.categoria{
+    background-color: #00b300;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.platos{
+    color: white;
+    background-color: #008000;
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 20%;
+    height: 22rem;
+    margin: 15px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
